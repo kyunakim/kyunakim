@@ -4,9 +4,7 @@
 <br>
 <br>
 <br>
-✨Stats✨<br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyunakim&show_icons=true&theme=buefy)
 <br>
 <br>
 <br>
