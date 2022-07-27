@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=kyuna%20archive&fontSize=75&animation=twinkling&fontColor=#000000)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=kyuna%20archive&fontSize=75&animation=twinkling&fontColor=#FFFFFF)
+
 
 
 
