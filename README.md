@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=kyuna%20archive&fontSize=75&animation=twinkling&fontColor=#000000)
 
 
-
 <!--
 **kyunakim/kyunakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
